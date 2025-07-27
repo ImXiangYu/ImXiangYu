@@ -1,4 +1,4 @@
-## Hi there 👋
+![.png](https://s2.loli.net/2025/07/28/gE45COQVuj6IJ2k.png)
 
 <!--
 **ImXiangYu/ImXiangYu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
