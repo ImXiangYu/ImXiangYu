@@ -5,7 +5,7 @@
     
       
 ## Hi, I'm Ayubass 👋  
-**I am an undergraduate student at Chongqing University with a passion for databases.**
+**I am an undergraduate student at Chongqing University with a passion for C++.**
 <br>
 <br>
 <br>
