@@ -14,8 +14,6 @@
 - 🏫 University: Chongqing University
 - 📧 Email: Ayubass@163.com
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ImXiangYu)](https://github.com/anuraghazra/github-readme-stats)
-
     </td>
 
     <!-- 右边图片 -->
@@ -26,3 +24,5 @@
     </td>
   </tr>
 </table>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ImXiangYu)](https://github.com/anuraghazra/github-readme-stats)
