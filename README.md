@@ -25,4 +25,10 @@
   </tr>
 </table>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ImXiangYu)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ImXiangYu" />
+</p>
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/xiang-yu-63?theme=light&font=Fira%20Code&ext=heatmap&site=cn" />
+</p>
