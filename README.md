@@ -9,7 +9,7 @@
 <br>
 <br>
 <br>
-- 💼 Focus: C++, Linux, Database, Python
+- 💼 Focus: C++, C#, Python, Linux, Database
 - 📍 Location: Chongqing, China
 - 🏫 University: Chongqing University
 - 📧 Email: Ayubass@163.com
