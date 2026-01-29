@@ -22,7 +22,12 @@
 </table>
 
 <div align="center">
-  <img width="645" height="106" alt="image" src="https://github.com/user-attachments/assets/229ace1c-99af-4b0c-82ab-5b44a98a5c8d" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/d3980332-e6a9-4aa4-beb1-2e98ee335f0f">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/80206ebb-a679-41c4-a1d2-bb57b1e06b79">
+    <img width="618" height="100" alt="image" src="https://github.com/user-attachments/assets/80206ebb-a679-41c4-a1d2-bb57b1e06b79" />
+  </picture>
+
   <br>
   <img src="https://komarev.com/ghpvc/?username=ImXiangYu&label=Views&color=orange&style=flat" alt="访问量统计" />
 </div>
