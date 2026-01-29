@@ -33,9 +33,10 @@
 
 <table align="center" width="100%">
   <tr>
-    <td align="center">
+    <td align="center" width="50%">
       <img src="https://github-readme-stats.vercel.app/api?username=ImXiangYu" height="170" />
-      &nbsp;&nbsp;
+    </td>
+    <td align="center" width="50%">
       <img src="https://leetcard.jacoblin.cool/xiang-yu-63?theme=light&font=Fira%20Code&site=cn" height="170" />
     </td>
   </tr>
