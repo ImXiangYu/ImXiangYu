@@ -25,7 +25,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/d3980332-e6a9-4aa4-beb1-2e98ee335f0f">
     <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/a2341185-648a-4a1c-8373-23f1d79c8e31">
-    <img width="618" height="100" alt="image" src="https://github.com/user-attachments/assets/80206ebb-a679-41c4-a1d2-bb57b1e06b79" />
+    <img width="auto" height="100" alt="image" src="https://github.com/user-attachments/assets/80206ebb-a679-41c4-a1d2-bb57b1e06b79" />
   </picture>
 
   <br>
