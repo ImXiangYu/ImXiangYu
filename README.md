@@ -34,10 +34,20 @@
 <table align="center" width="100%">
   <tr>
     <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=ImXiangYu" height="170" />
+      <a href="https://github.com/ImXiangYu">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=ImXiangYu&theme=radical">
+          <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=ImXiangYu&theme=default">
+          <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=ImXiangYu&theme=default" height="170" />
+        </picture>
+      </a>
     </td>
     <td align="center" width="50%">
-      <img src="https://leetcard.jacoblin.cool/xiang-yu-63?theme=light&font=Fira%20Code&site=cn" height="170" />
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://leetcard.jacoblin.cool/xiang-yu-63?theme=radical&font=Fira%20Code&site=cn">
+        <source media="(prefers-color-scheme: light)" srcset="https://leetcard.jacoblin.cool/xiang-yu-63?theme=light&font=Fira%20Code&site=cn">
+        <img src="https://leetcard.jacoblin.cool/xiang-yu-63?theme=light&font=Fira%20Code&site=cn" height="170" />
+      </picture>
     </td>
   </tr>
 </table>
@@ -45,7 +55,11 @@
 <table align="center" width="100%">
   <tr>
     <td align="center">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=ImXiangYu&theme=tokyo-night" width="100%" />
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=ImXiangYu&theme=redical">
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=ImXiangYu&bg_color=ffffff&color=000000&line=91beee&point=3f99ed&area=true">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=ImXiangYu&theme=github" width="100%" />
+      </picture>
     </td>
   </tr>
 </table>
