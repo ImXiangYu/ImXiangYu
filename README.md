@@ -1,70 +1,31 @@
-# 🙋 Hello
-
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/114651042?s=400&u=c03e1cb8db9c8e7e0aafbdfafd3c0809004774bb&v=4" width="120" style="border-radius: 50%; border: 3px solid orange;" />
-  <h3>🤺 About Me</h3>
+  <img src="https://avatars.githubusercontent.com/u/114651042?s=400&u=c03e1cb8db9c8e7e0aafbdfafd3c0809004774bb&v=4" width="105" style="border-radius: 50%; border: 2px solid orange;" />
+
+  <h2>EwanAyu</h2>
+  
+  <p>
+    🎓 <b>CS Master's @ Chongqing University</b> · 📍 <b>Chongqing, China</b><br>
+    Exploring Modern C++, Storage Systems, and High-Performance Engineering.
+  </p>
+
+  <p>
+    💼 <code>C++</code> · <code>Linux</code> · <code>Storage</code> · <code>Systems</code><br>
+    📫 <a href="mailto:yushuo.wang@foxmail.com">yushuo.wang@foxmail.com</a>
+  </p>
+
+  <div style="margin-bottom: 8px;">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/d3980332-e6a9-4aa4-beb1-2e98ee335f0f">
+      <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/a2341185-648a-4a1c-8373-23f1d79c8e31">
+      <img width="auto" height="80" alt="banner" src="https://github.com/user-attachments/assets/80206ebb-a679-41c4-a1d2-bb57b1e06b79" />
+    </picture>
+  </div>
+
+  <a href="https://github.com/ImXiangYu">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=ImXiangYu&theme=radical&show_icons=true">
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=ImXiangYu&theme=default&show_icons=true">
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=ImXiangYu&theme=default&show_icons=true" alt="XiangYu's GitHub Stats" />
+    </picture>
+  </a>
 </div>
-
-<p align="center">
-  <b>Hi, I'm Ayubass 👋</b><br>
-  <b>I am an undergraduate student at Chongqing University with a passion for C++.</b>
-</p>
-
-<table align="center" style="margin: 0 auto; border-collapse: collapse;">
-  <tr>
-    <td style="padding-right: 20px;">💼 <b>Focus:</b> C++, C#, Python, Linux, Database</td>
-    <td>📍 <b>Location:</b> Chongqing, China</td>
-  </tr>
-  <tr>
-    <td style="padding-right: 20px;">🏫 <b>University:</b> Chongqing University</td>
-    <td>📧 <b>Email:</b> <a href="mailto:AyuPai@foxmail.com">AyuPai@foxmail.com</a></td>
-  </tr>
-</table>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/d3980332-e6a9-4aa4-beb1-2e98ee335f0f">
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/a2341185-648a-4a1c-8373-23f1d79c8e31">
-    <img width="auto" height="100" alt="image" src="https://github.com/user-attachments/assets/80206ebb-a679-41c4-a1d2-bb57b1e06b79" />
-  </picture>
-
-  <br>
-  <img src="https://komarev.com/ghpvc/?username=ImXiangYu&label=Views&color=orange&style=flat" alt="访问量统计" />
-</div>
-
-<br/>
-
-## 📊 Statistics & Activity
-
-<table align="center" width="100%">
-  <tr>
-    <td align="center" width="50%">
-      <a href="https://github.com/ImXiangYu">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=ImXiangYu&theme=radical">
-          <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=ImXiangYu&theme=default">
-          <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=ImXiangYu&theme=default" height="170" />
-        </picture>
-      </a>
-    </td>
-    <td align="center" width="50%">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://leetcard.jacoblin.cool/xiang-yu-63?theme=radical&font=Fira%20Code&site=cn">
-        <source media="(prefers-color-scheme: light)" srcset="https://leetcard.jacoblin.cool/xiang-yu-63?theme=light&font=Fira%20Code&site=cn">
-        <img src="https://leetcard.jacoblin.cool/xiang-yu-63?theme=light&font=Fira%20Code&site=cn" height="170" />
-      </picture>
-    </td>
-  </tr>
-</table>
-
-<table align="center" width="100%">
-  <tr>
-    <td align="center">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=ImXiangYu&theme=redical">
-        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=ImXiangYu&bg_color=ffffff&color=000000&line=91beee&point=3f99ed&area=true">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=ImXiangYu&theme=github" width="100%" />
-      </picture>
-    </td>
-  </tr>
-</table>
