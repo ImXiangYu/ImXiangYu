@@ -8,10 +8,9 @@
     Exploring Modern C++, Storage Systems, and High-Performance Engineering.
   </p>
 
-  <p>
-    💼 <code>C++</code> · <code>Linux</code> · <code>Storage</code> · <code>Systems</code><br>
-    📫 <a href="mailto:yushuo.wang@foxmail.com">yushuo.wang@foxmail.com</a>
-  </p>
+  <h4>💼 <code>C++</code> · <code>Linux</code> · <code>Storage</code> · <code>Systems</code></h4>
+
+  <p>📫 <a href="mailto:yushuo.wang@foxmail.com">yushuo.wang@foxmail.com</a></p>
 
   <div style="margin-bottom: 8px;">
     <picture>
